@@ -20,6 +20,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - Canva
 - [Education](#education)
 - [Certificates](#certificates)
+- [Experience](#experience)
 - [Contact](#contact)
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
@@ -73,6 +74,23 @@ The analysis revealed that annual members use Cyclistic bikes for regular commut
 ## Certificates
 - Google data analytics certifications
 - Financial Accounting (NPTEL)
+
+## Experience
+- Research Analyst (Nov 2023 - Jan 2024)
+
+  **SMC Global Securities Ltd.** · Internship · On-site
+    - Accomplished a 20% improvement in financial analysis accuracy, as measured by the precision of evaluations, by analyzing Dabur's annual and quarterly reports and using spreadsheets for financial statements.
+    - Achieved a 30% increase in stakeholder understanding by creating visualizations to present financial data more effectively.
+
+- Market Research Analyst (May 2022 - Jul 2022)
+
+  **ICICI BANK** · Internship · On-site
+  - Accomplished a comprehensive analysis of the micro-market dynamics of Mayur Vihar, Delhi, resulting in a 15% increase in market penetration for targeted financial products within the locality.
+
+- Marketing (Mar 2020)
+
+  **Lenskart.com** · Freelance · On-site
+  - Effectively increased brand visibility and foot traffic by 30% through strategic pamphlet distribution in targeted local areas. By reaching an average of 50 households per day, I achieved a 20% rise in new customer acquisitions. This experience honed my skills in data- driven marketing and campaign analysis, providing valuable insights for future roles in data analysis.
 
 ## Contact
 - Linkedin: [@sparshgupta](https://www.linkedin.com/in/sparsh-gupta-21sep2000/)

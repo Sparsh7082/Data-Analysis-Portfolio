@@ -1,4 +1,4 @@
-# Data-Analysis-Portfolio
+# Sparsh Gupta - Data Analysis Portfolio
 ## About
 Hi, I'm Sparsh Gupta. I am MBA graduate with expertise in data analysis. Proficient in spreadsheets for data manipulation, SQL for database querying, R for statistical analysis, and Tableau for data visualization. Proven ability to derive insights and make data-driven decisions. Strong analytical skills combined with business acumen.
 

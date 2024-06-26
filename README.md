@@ -47,33 +47,7 @@ Cyclistic, a bike-share company in Chicago, seeks to maximize the number of annu
     - [**Link of Dashboard**](https://public.tableau.com/app/profile/sparsh.gupta6875/viz/Casestudy1Howdoesabike-sharenavigatespeedysuccess/Dashboard3)
 
 #### Results
-1. **Usage Patterns**:
-   - Annual Members: Use bikes for regular commuting during peak hours on weekdays. Trips are shorter in duration and distance.
-   - Casual Riders: Use bikes more for leisure and sporadic trips, primarily on weekends and holidays. Their trips are longer in duration but fewer in frequency.
-
-2. **Revenue and Profitability**:
-   - Annual members generate stable, predictable revenue and contribute more consistently to profitability compared to casual riders.
-
-3. **Popular Stations**:
-   - Casual riders frequently start and end their rides at Streeter Dr & Grand Ave.
-   - 7.31% of casual riders and 3.08% of annual members have circular trips, indicating leisure rides.
-
-4. **Seasonal Preferences**:
-   - Both casual riders and annual members prefer riding during the summer, with peak usage from June to August.
-
-5. **Bike Preferences**:
-   - Both groups prefer classic bikes. Casual riders using docked bikes have the longest ride durations.
-
-6. **Ride Distances**:
-   - Similar ride distances between casual riders and annual members, with primary differences in frequency and duration of rides.
-
-7. **Conversion Potential**:
-   - Casual riders present a significant opportunity for conversion to annual memberships due to their existing engagement with the service.
-
-8. **Digital Media Influence**:
-   - Effective digital media campaigns can target casual riders with personalized offers and reminders, potentially increasing conversion rates through retargeting ads, social media promotions, and email marketing.
-
-These insights inform the recommendations for tailored marketing campaigns, incentives, and offers, enhanced user experience, and leveraging digital media to boost annual membership conversions.
+The analysis revealed that annual members use Cyclistic bikes for regular commuting during peak hours on weekdays, with shorter and more frequent trips, while casual riders predominantly use bikes for leisure on weekends and holidays, resulting in longer but fewer trips. Both groups prefer classic bikes, with casual riders showing a notable preference for docked bikes leading to the longest ride durations. Revenue from annual members is more stable and predictable, contributing significantly to profitability. Popular stations like Streeter Dr & Grand Ave are favored by casual riders, and both groups peak in usage during summer months. The data highlights a substantial opportunity to convert engaged casual riders into annual members through targeted marketing strategies utilizing digital media.
 
 ## Education
 - **MBA** (*2021 - 2023*)

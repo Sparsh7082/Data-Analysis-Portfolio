@@ -24,7 +24,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### How does a bike-share navigate speedy success?
+### Project 1- How does a bike-share navigate speedy success?
 ![Dashboard](Dashboard.png)
 **Kaggle Notebook**- [**Link**](https://www.kaggle.com/code/sparshgupta2109/how-does-a-bike-share-navigate-speedy-success)
 #### Goal
